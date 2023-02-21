@@ -13,7 +13,6 @@ recall. The graph below shows class imbalance.
 
 ![picture alt](https://github.com/riwasabri/DeepLearning/blob/master/img1.png)
 
-
 ## Data
 
 The data is gathered from Kaggle and consists of 8000+ rs, with one row corresponding
