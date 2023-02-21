@@ -1,5 +1,5 @@
 # Deep Learning
-For full presentation, click [here.](https://github.com/riwasabri/DeepLearning/blob/master/Deep%20Learning.key)
+For full presentation, click [here.](https://github.com/riwasabri/DeepLearning/blob/master/Deep%20Learning%20Pres.pdf)
 
 ## Design
 
